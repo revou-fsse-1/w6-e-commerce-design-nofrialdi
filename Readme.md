@@ -2,6 +2,8 @@
 
 ## :arrow_up: High Level Design
 
+![MVC-detail](assets/mvc_detail.png)
+
 ## :shopping_cart: Product Detail
 
 ### Sequence diagram Product detial
