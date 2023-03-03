@@ -2,7 +2,7 @@
 
 ## :arrow_up: High Level Design
 
-![MVC-detail](assets/mvc_detail.png)
+![hight-level](assets/high-level2.png)
 
 ## :shopping_cart: Product Detail
 
